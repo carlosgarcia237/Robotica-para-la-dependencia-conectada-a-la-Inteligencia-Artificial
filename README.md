@@ -14,8 +14,15 @@ Proyecto de Innovación Aplicada y Transferencia de Conocimientos en la Formaci�
 ![Slide12](https://github.com/user-attachments/assets/04d1a437-313e-49c1-9b58-5ab68c690ff4)
 ![Slide13](https://github.com/user-attachments/assets/852e0a2e-9754-43e1-b941-783152cf4c7a)
 ![Slide14](https://github.com/user-attachments/assets/79741665-5df9-40be-a97b-d6a73b83e884)
-
+## Repositorio de la parte simulada: 
 [Enlace al repositorio de la parte simulada]([https://github.com/usuario/nombre-del-repo](https://github.com/carlosgarcia237/coppelia-UR5-Yolov8-Recognition-voice))
+## Demos de la parte simulada: 
+[Vídeo 1: Detección de objetos y cálculo de trayectorias] (https://youtu.be/24lIzd-W-Ag)
+[Vídeo 2: Ejecución del ciclo completo de agarre] (https://youtu.be/XVxLqbK-Z68)
+[Vídeo 3: Validación de precisión y respuesta a comandos] (https://youtu.be/uCF1rsON2Ys)
+
+<img width="1602" height="171" alt="image" src="https://github.com/user-attachments/assets/14ba2eff-b44d-4467-9527-d9076913a5fa" />
+
 
 ![Slide15](https://github.com/user-attachments/assets/ea0969a7-44a3-4a96-ac2f-6cb4732ea9ee)
 ![Slide17](https://github.com/user-attachments/assets/01a4b37b-9369-4969-9778-b0a18cf45d87)
