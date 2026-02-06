@@ -15,7 +15,7 @@ Proyecto de Innovaci√≥n Aplicada y Transferencia de Conocimientos en la Formaci√
 ![Slide13](https://github.com/user-attachments/assets/852e0a2e-9754-43e1-b941-783152cf4c7a)
 ![Slide14](https://github.com/user-attachments/assets/79741665-5df9-40be-a97b-d6a73b83e884)
 
-[Enlace al repositorio de la parte simulada](https://github.com/usuario/nombre-del-repo)
+[Enlace al repositorio de la parte simulada]([https://github.com/usuario/nombre-del-repo](https://github.com/carlosgarcia237/coppelia-UR5-Yolov8-Recognition-voice))
 
 ![Slide15](https://github.com/user-attachments/assets/ea0969a7-44a3-4a96-ac2f-6cb4732ea9ee)
 ![Slide17](https://github.com/user-attachments/assets/01a4b37b-9369-4969-9778-b0a18cf45d87)
