@@ -13,6 +13,12 @@ Proyecto de Innovaci√≥n Aplicada y Transferencia de Conocimientos en la Formaci√
 ![Slide11](https://github.com/user-attachments/assets/504287f2-2ed7-4459-8911-cda39370a868)
 ![Slide12](https://github.com/user-attachments/assets/04d1a437-313e-49c1-9b58-5ab68c690ff4)
 ![Slide13](https://github.com/user-attachments/assets/852e0a2e-9754-43e1-b941-783152cf4c7a)
+
+![nSlide21](https://github.com/user-attachments/assets/1a15f217-fb0c-44c7-af4d-ef37dc59ca40)
+![nSlide22](https://github.com/user-attachments/assets/830b2fe1-c9bd-4d3f-85b8-736b76109008)
+![nSlide23](https://github.com/user-attachments/assets/5527d5a4-45f6-484d-b385-7db408314b50)
+![nSlide24](https://github.com/user-attachments/assets/1eafaf43-5150-4c3a-b76e-ecb164dbf45d)
+![nSlide25](https://github.com/user-attachments/assets/86b3c598-ae3f-486e-8405-676f48251be5)
 ![Slide14](https://github.com/user-attachments/assets/79741665-5df9-40be-a97b-d6a73b83e884)
 ## Repositorio de la parte simulada: 
 [Enlace al repositorio de la parte simulada]([https://github.com/usuario/nombre-del-repo](https://github.com/carlosgarcia237/coppelia-UR5-Yolov8-Recognition-voice))
@@ -23,6 +29,8 @@ Proyecto de Innovaci√≥n Aplicada y Transferencia de Conocimientos en la Formaci√
 
 <img width="1602" height="171" alt="image" src="https://github.com/user-attachments/assets/14ba2eff-b44d-4467-9527-d9076913a5fa" />
 
+![nSlide28](https://github.com/user-attachments/assets/5f6dfed1-c153-4eea-a5c7-379a9699d787)
+![nSlide29](https://github.com/user-attachments/assets/d888dd9a-2c46-490b-8625-ba5b21f6d037)
 
 ![Slide15](https://github.com/user-attachments/assets/ea0969a7-44a3-4a96-ac2f-6cb4732ea9ee)
 ![Slide17](https://github.com/user-attachments/assets/01a4b37b-9369-4969-9778-b0a18cf45d87)
