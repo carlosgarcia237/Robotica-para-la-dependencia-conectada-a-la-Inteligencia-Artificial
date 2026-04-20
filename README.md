@@ -27,6 +27,15 @@ Proyecto de Innovación Aplicada y Transferencia de Conocimientos en la Formaci�
 ![Slide25](Slide25.JPG)
 ![Slide26](Slide26.JPG)
 ![Slide27](Slide27.JPG)
+## Repositorio de la parte simulada: 
+[Enlace al repositorio de la parte simulada]([https://github.com/usuario/nombre-del-repo](https://github.com/carlosgarcia237/coppelia-UR5-Yolov8-Recognition-voice))
+## Demos de la parte simulada: 
+[Vídeo 1: Detección de objetos y cálculo de trayectorias] (https://youtu.be/24lIzd-W-Ag)
+[Vídeo 2: Ejecución del ciclo completo de agarre] (https://youtu.be/XVxLqbK-Z68)
+[Vídeo 3: Validación de precisión y respuesta a comandos] (https://youtu.be/uCF1rsON2Ys)
+
+<img width="1602" height="171" alt="image" src="https://github.com/user-attachments/assets/14ba2eff-b44d-4467-9527-d9076913a5fa" />
+
 ![Slide28](Slide28.JPG)
 ![Slide29](Slide29.JPG)
 ![Slide30](Slide30.JPG)
@@ -36,12 +45,9 @@ Proyecto de Innovación Aplicada y Transferencia de Conocimientos en la Formaci�
 ![Slide34](Slide34.JPG)
 ![Slide35](Slide35.JPG)
 ![Slide36](Slide36.JPG)
-![Slide37](Slide37.JPG)
-## Repositorio de la parte simulada: 
-[Enlace al repositorio de la parte simulada]([https://github.com/usuario/nombre-del-repo](https://github.com/carlosgarcia237/coppelia-UR5-Yolov8-Recognition-voice))
-## Demos de la parte simulada: 
-[Vídeo 1: Detección de objetos y cálculo de trayectorias] (https://youtu.be/24lIzd-W-Ag)
-[Vídeo 2: Ejecución del ciclo completo de agarre] (https://youtu.be/XVxLqbK-Z68)
-[Vídeo 3: Validación de precisión y respuesta a comandos] (https://youtu.be/uCF1rsON2Ys)
 
-<img width="1602" height="171" alt="image" src="https://github.com/user-attachments/assets/14ba2eff-b44d-4467-9527-d9076913a5fa" />
+## Página web del proyecto: 
+[Ir a la página WEB del proyecto](https://roboticaparaladependencia.my.canva.site/)
+
+![Slide37](Slide37.JPG)
+
