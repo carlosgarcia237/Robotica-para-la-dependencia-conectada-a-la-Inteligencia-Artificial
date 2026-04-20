@@ -1,5 +1,9 @@
 # Robotica-para-la-dependencia-conectada-a-la-Inteligencia-Artificial
 Proyecto de Innovación Aplicada y Transferencia de Conocimientos en la Formación Profesional
+![Slide1](Slide1.JPG)
+
+
+
 ![Slide1](https://github.com/user-attachments/assets/97970a70-5201-4146-8ff4-d6326e4d339d)
 ![Slide2](https://github.com/user-attachments/assets/93c4fb3e-0b72-4f0c-8da2-0567ab8ec88c)
 ![Slide3](https://github.com/user-attachments/assets/6748cc7c-5a32-41c3-9d30-7dd3808352b1)
